@@ -1,6 +1,4 @@
 # GitHub Repositories App  
-![Component 112 – 1](https://github.com/user-attachments/assets/61c25bd9-d0dc-477a-9ee0-82cdca108845)
-
 
 https://github.com/user-attachments/assets/0bcc00e7-44e6-4dd1-84b1-3310a49267a5
 ## Overview  
@@ -26,7 +24,7 @@ The **GitHub Repositories App** is an Android application developed as part of t
 - **Chucker** for debugging network calls  
 
 ## Screenshots  
-(Add screenshots from the app here to make it visually appealing.)
+![Component 112 – 1](https://github.com/user-attachments/assets/61c25bd9-d0dc-477a-9ee0-82cdca108845)
 
 ## Installation  
 1. Clone the repository:  
@@ -38,24 +36,4 @@ The **GitHub Repositories App** is an Android application developed as part of t
 
 ## Instructor  
 Special thanks to **Seif Mohamed** for mentorship and guidance.  
-
-## Contributing  
-Feel free to fork this repository and contribute! Submit a pull request for review.  
-
-## License  
-This project is licensed under the MIT License.  
-
----
-
-### Adding the README to GitHub  
-1. Create a file named **README.md** in your project directory.  
-2. Copy the above content and paste it into the file.  
-3. Commit and push the file to your GitHub repository:  
-   ```bash  
-   git add README.md  
-   git commit -m "Add README file"  
-   git push  
-   ```  
-
-
 
